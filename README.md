@@ -2,8 +2,6 @@
 
 Group Project 1
 
-## Team: George, Mohsen, Parker, Damon
-
 ## Game Overview
 Trivia Quest will be a multiplayer trivia game, with each round consisting of 10 multiple questions. Major points for the game:
 - Each question will be timed.
