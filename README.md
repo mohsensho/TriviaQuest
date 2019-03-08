@@ -11,7 +11,8 @@ Trivia Quest will be a multiplayer trivia game, with each round consisting of 10
 - At the end of each round, a winner will be displayed with a gif.
 - There will be a scoreboard tracking all scores
 
-## Target Audience: Anyone who likes to play Trivia games and display their scores to their friends (show off).
+## Target Audience:
+Anyone who likes to play Trivia games and display their scores to their friends (show off).
 
 ## Problems to address:
 Allowing multiple people to play the same game without having to leave their house and go to a bar for Trivia Night. 
